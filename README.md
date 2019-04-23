@@ -10,3 +10,9 @@ Sample website with plenty of files for demos
 I am going to commit without adding firs
 
 this is a changeded version 
+
+
+## Deployment
+
+
+## How to Contribute
