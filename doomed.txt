@@ -1,7 +1,0 @@
-this file will be deleted
-
-
-Line 1 staged
-
-
-Line 1 changed but not staged
