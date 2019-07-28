@@ -2,33 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+## INtroduction
+
 ## Purpose
 
-Sample website with plenty of files for demos
-
-
-I am going to commit without adding firs
-
-this is a changeded version 
-
-
-## Deployment
-
-
-## How to Contribute
-
-
-
-
-Another changed version
-
-
-
-
-
-CHange locally not added or committed
-
-## copy right notice
-
-
-I changed this in master branch
+## How to contribute
