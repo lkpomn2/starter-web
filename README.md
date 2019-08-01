@@ -24,3 +24,5 @@ This is the 5th edited. Just added to the index
 8/1 @ 1:30 pm aded text in simple changes branch
 
 8/1 @ 3:16 Changes on Master S8 L58 Rebasing example
+
+8/1 @ 3:36 Changes on Feature branch after rebasing Master into myFeature branch
